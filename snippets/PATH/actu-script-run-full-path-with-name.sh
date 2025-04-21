@@ -1,4 +1,5 @@
 clearpath2(){
+#scriptnp2="$(pwd)/${0##*/}"
 #TRIMMED=$(echo "$scriptnp2" | sed 's#//*#/#g')
 TRIMMED="$(pwd)/${0##*/}"
 a=$TRIMMED
