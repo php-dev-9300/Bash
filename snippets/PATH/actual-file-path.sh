@@ -1,1 +1,2 @@
-
+simplePath="$(pwd)"
+echo $simplePath
